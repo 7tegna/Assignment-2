@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+#title{
+  
+    margin: 50px; border: solid;
+    background-color: #1d99ca;
+  
+  
+}
+* {
+  text-align: center;
+  margin: 10px;
+  color: #04060c;
+  flex: content;
+  background-color: #cec65e;
+  flex-direction: column;
+}
